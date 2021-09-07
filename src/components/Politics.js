@@ -84,7 +84,7 @@ export default function Politics({
   };
 
   return (
-    <div>
+    <div id="politica">
       <Container>
         <Content>
           <TwoColumn>
